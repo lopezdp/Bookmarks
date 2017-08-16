@@ -71,7 +71,6 @@ def CheckURI(uri, timeout=5):
     False if that GET request returns any other response, or doesn't return
     (i.e. times out).
     '''
-    # 1. Write this function.  Delete the following line.
     # 1. Write the CheckURI function, which takes a URI and returns True if a
     #    request to that URI returns a 200 OK, and False otherwise.
 
